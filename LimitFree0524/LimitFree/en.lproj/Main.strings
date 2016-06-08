@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "开启推送通知"; ObjectID = "2w7-bU-2aa"; */
+"2w7-bU-2aa.text" = "开启推送通知";
+
+/* Class = "UITableViewSection"; headerTitle = "官方信息"; ObjectID = "AGa-LG-TS1"; */
+"AGa-LG-TS1.headerTitle" = "官方信息";
+
+/* Class = "UITableViewSection"; headerTitle = "系统设置"; ObjectID = "f79-41-1hD"; */
+"f79-41-1hD.headerTitle" = "系统设置";
+
+/* Class = "UILabel"; text = "开启关注通知"; ObjectID = "gcf-Pp-Gep"; */
+"gcf-Pp-Gep.text" = "开启关注通知";
+
+/* Class = "UILabel"; text = "推荐爱限免"; ObjectID = "mkn-WT-g5c"; */
+"mkn-WT-g5c.text" = "推荐爱限免";
+
+/* Class = "UILabel"; text = "官方网站"; ObjectID = "sJc-7T-gDo"; */
+"sJc-7T-gDo.text" = "官方网站";
+
+/* Class = "UILabel"; text = "清除缓存"; ObjectID = "seE-tl-ehG"; */
+"seE-tl-ehG.text" = "清除缓存";
+
+/* Class = "UILabel"; text = "官方微博"; ObjectID = "sox-He-XWc"; */
+"sox-He-XWc.text" = "官方微博";

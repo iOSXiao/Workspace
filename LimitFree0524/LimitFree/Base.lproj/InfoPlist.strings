@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  LimitFree
+
+  Created by Chaosky on 16/5/23.
+  Copyright © 2016年 1000phone. All rights reserved.
+*/
+// 所有语言的参照文件，如果已实现本地化的语言则使用本地化的strings文件，如果没有该语言则使用base文件
+CFBundleDisplayName = "LimitFree";
